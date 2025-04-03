@@ -15,12 +15,12 @@
 #define OTA_PASS        "summer"
 
 #define WIFI_SSID       "HUAWEI-G100EU"       // WiFi SSID
-#define WIFI_PASSWORD   "Pp@123456"           // WiFi 密码
+#define WIFI_PASSWORD   "x"           // WiFi 密码
 
 #define MQTT_HOST       "192.168.3.134"       // MQTT 代理地址
 #define MQTT_PORT       1883                  // MQTT 代理端口
 #define MQTT_USER       "pimqtt"              // MQTT 用户名
-#define MQTT_PASSWORD   "Pp@12345678*"        // MQTT 密码
+#define MQTT_PASSWORD   "x"        // MQTT 密码
 
 #define BATTERY_CALIBRATION_FACTOR 3.1f      // 电池电压校准系数
 
